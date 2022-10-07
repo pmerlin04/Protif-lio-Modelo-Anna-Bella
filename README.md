@@ -1,2 +1,2 @@
-# Protif-lio-Modelo-Anna-Bella
-Este é um portifólio aprendido no curso da Udemy de Desenvolvimento Web.
+# Portifolio-Modelo-Anna-Bella
+Este é um portifolio de uma modelo, utilziando HTML e CSS, aprendido no curso da Udemy de Desenvolvimento Web.
